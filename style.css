@@ -1,4 +1,41 @@
 body{
     background-image: url("background1.png");
     text-align:center;
+    background-size: 600px;
+    background-repeat:no-repeat;
+}
+
+.Body2{
+    background-image: url("background2.png");
+    text-align:center;
+    background-size: 600px;
+    background-repeat:no-repeat;
+}
+
+.Body3{
+    background-image: url("background3.png");
+    text-align:center;
+    background-size: 600px;
+    background-repeat:no-repeat;
+}
+
+.Body4{
+    background-image: url("background4.png");
+    text-align:center;
+    background-size: 600px;
+    background-repeat:no-repeat;
+}
+
+.Body5{
+    background-image: url("background5.png");
+    text-align:center;
+    background-size: 600px;
+    background-repeat:no-repeat;
+}
+
+.Body6{
+    background-image: url("background6.png");
+    text-align:center;
+    background-size: 600px;
+    background-repeat:no-repeat;
 }
